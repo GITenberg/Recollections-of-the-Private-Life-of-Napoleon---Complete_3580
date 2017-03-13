@@ -1,5 +1,5 @@
 _repo: Recollections-of-the-Private-Life-of-Napoleon---Complete_3580
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Clark, Walter
@@ -9,9 +9,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1229
 covers:
 - cover_type: archival
-  image_path: 3580/3580-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3580-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Wairy, Louis Constant
@@ -26,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Louis_Constant_Wairy
     - http://en.wikipedia.org/wiki/Louis_Constant_Wairy
 description: 'Uniform title: Mémoires de Constant. English'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3580#Recollections-of-the-Private-Life-of-Napoleon---Complete
 gutenberg_bookshelf:
 - Napoleonic(Bookshelf)
 - France
